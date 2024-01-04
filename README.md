@@ -1,3 +1,3 @@
 # ReactExpressTemplate
 
-Template for ReactExpress
+Quick Template for React+Express
